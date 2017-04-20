@@ -1,0 +1,48 @@
+/* UNIVERSAL */
+body {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/* MEDIA QUERIES */
+
+
+/* FONTS */
+@font-face {
+	font-family: 'Ailerons';
+	src: url('./fonts/ailerons.otf') format('opentype');
+}
+
+/* TOP/NAVTHING */
+.top-logo-container {
+	position: absolute;
+	top: 15px;
+	width: 100%;
+	text-align: center;
+}
+
+.top-logo {
+	display: inline-block;
+}
+
+.logo-triangle {
+	position: relative;
+}
+
+.main-triangle {
+	width: 36px;
+}
+
+.smaller-triangle {
+	width: 18px;
+}
+
+.top-triangle {
+	left: 49px;
+	bottom: 15px;
+}
+
+.bot-triangle {
+	right: 22px;
+}
