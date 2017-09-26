@@ -1,0 +1,27 @@
+{
+  "name": "visions-blog",
+  "version": "1.0.0",
+  "description": "Personal Blog in Progress",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mo-js": "^0.288.1",
+    "mojs-curve-editor": "^1.5.0",
+    "mojs-player": "^0.43.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrodyMacfarlane/Visions-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrodyMacfarlane/Visions-Blog/issues"
+  },
+  "homepage": "https://github.com/BrodyMacfarlane/Visions-Blog#readme"
+}
